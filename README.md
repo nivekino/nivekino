@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Mejia</h1>
-<h3 align="center">A passionate Web Developer from El Salvador, I'm actually dedicating in Front-end</h3>
+<h3 align="center">A passionate Web Developer from El Salvador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivekino&label=Profile%20views&color=0e75b6&style=flat" alt="nivekino" /> </p>
 
