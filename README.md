@@ -154,20 +154,3 @@
     />
   </a>
 </p>
-
-<div style="display: flex; flex-direction: row">
-  <p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=nivekino&show_icons=true&locale=en&layout=compact"
-      alt="nivekino"
-    />
-  </p>
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=nivekino&show_icons=true&locale=en"
-      alt="nivekino"
-    />
-  </p>
-</div>
